@@ -24,7 +24,7 @@ This is the backend for the Mini Sign Language Visual Dictionary app, built usin
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/sign-language-dictionary-backend
+git clone https://github.com/shwetkamal-gaud/sign-setu-backend.git
 cd sign-language-dictionary-backend
 npm install
 npm run dev
