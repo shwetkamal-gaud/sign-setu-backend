@@ -1,4 +1,4 @@
-```md
+
 # Mini Sign Language Visual Dictionary - Backend
 
 This is the backend for the Mini Sign Language Visual Dictionary app, built using Node.js, Express, TypeScript, and MongoDB (Mongoose). It handles all the CRUD operations for managing sign language words.
